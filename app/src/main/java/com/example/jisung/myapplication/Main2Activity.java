@@ -26,8 +26,8 @@ public class Main2Activity extends AppCompatActivity {
         WebSettings webSettings = webView.getSettings();
         webSettings.setSupportZoom(true);
         webSettings.setJavaScriptEnabled(true);
-        webView.loadUrl("http://www.google.com");
+        webView.loadUrl("http://www.youtube.com");
 
-        Toast.makeText(this, "tasetaset", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "헤ㅇㅇㄱㄴㅇㄴㄹㅁㄹ", Toast.LENGTH_SHORT).show();
     }
 }
