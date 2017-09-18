@@ -28,6 +28,6 @@ public class Main2Activity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
         webView.loadUrl("http://www.youtube.com");
 
-        Toast.makeText(this, "헤헿", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "헤ㅇㅇㄱㄴㅇㄴㄹㅁㄹ", Toast.LENGTH_SHORT).show();
     }
 }
