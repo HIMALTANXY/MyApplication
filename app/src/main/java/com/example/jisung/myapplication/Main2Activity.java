@@ -29,5 +29,6 @@ public class Main2Activity extends AppCompatActivity {
         webView.loadUrl("http://www.google.com");
 
         Toast.makeText(this, "tasetaset", Toast.LENGTH_SHORT).show();
+        //미나어ㅣㅁ너이ㅏㄹㅁㄴㅇ러ㅏㅣ
     }
 }
